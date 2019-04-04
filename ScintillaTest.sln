@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScintillaTest", "ScintillaTest\ScintillaTest.csproj", "{15B09D90-0857-49B3-9EAD-DAABCE1C5ED0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScintillaBinding", "..\ScintillaBinding\ScintillaBinding\ScintillaBinding.csproj", "{1E4A8117-65C8-49CA-B709-F8F7B861F6F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScintillaBinding", "ScintillaBinding\ScintillaBinding.csproj", "{1E4A8117-65C8-49CA-B709-F8F7B861F6F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
